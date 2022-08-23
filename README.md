@@ -1,3 +1,3 @@
 # tanjiro
 
-## Estudo, Criando um GAME Orientado a Objeto utilizando Typescript 
+Study, Creating an Object-Oriented GAME using Typescript.
